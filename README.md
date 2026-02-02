@@ -1,4 +1,4 @@
-Intelligent Content Moderation
+# Intelligent Content Moderation
 
 This project demonstrates an event-driven AWS-based content moderation pipeline. Files uploaded to Amazon S3 automatically trigger a processing workflow that runs inside an ECS task and analyzes the content.
 
