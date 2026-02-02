@@ -14,6 +14,7 @@ The goal of this project is to provide a technical foundation for automated cont
 + This setup enables scalable, event-driven processing of uploaded content.
 
 🚀 Deployment Steps
+
 1️⃣ Configure AWS Credentials
 
 Make sure your AWS CLI is configured:
